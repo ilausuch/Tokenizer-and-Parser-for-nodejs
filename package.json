@@ -1,0 +1,20 @@
+{
+  "name": "TokenizerAndParser",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "ilausuch",
+  "contributors": [],
+  "dependencies": {},
+  "scripts": {
+    "start": "node src\/test2.js"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2"
+  }
+}
